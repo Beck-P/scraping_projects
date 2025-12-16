@@ -42,6 +42,5 @@ while True:
 
 df = pd.DataFrame(all_data)
 
-print(df)
 
-print(df.columns)
+
